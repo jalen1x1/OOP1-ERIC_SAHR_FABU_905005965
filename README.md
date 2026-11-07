@@ -2,8 +2,8 @@
 
 **PROG211: Object-Oriented Programming 1 - Individual Assignment**
 **Domain:** Health (Vaccination Tracker)
-**Developer:** [Your Name] (Student ID: [Your ID])
-**Examiner:** Amandus Benjamin Coker
+**Developer:** Eric Sahr Fabu (Student ID: 905005965)
+**Lecturer:** Mr. Laggah
 
 ##  Project Description
 The **Community Vaccination Tracker** is a Python-based, interactive console application designed to help health workers manage vaccine distribution and patient records. Built entirely using Object-Oriented Programming (OOP) principles, this tool allows users to register different vaccines, register patients using privacy-compliant anonymous IDs, record administered doses, and view summary reports.
